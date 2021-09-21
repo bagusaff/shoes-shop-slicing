@@ -1,6 +1,6 @@
 # Design By : Yoga Pratama on dribbble
 
-Link : [dribbble] (https://dribbble.com/shots/15901051-Shoes-Online-Shop-Mobile-Apps)
+Link : [dribbble](https://dribbble.com/shots/15901051-Shoes-Online-Shop-Mobile-Apps)
 
 ## Installation
 
